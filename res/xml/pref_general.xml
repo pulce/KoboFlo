@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+    <EditTextPreference
+        android:dialogTitle="@string/pref_dialog_title_ip"
+        android:key="kobo_ip"
+        android:title="@string/pref_title_ip" />
+    <EditTextPreference
+        android:dialogTitle="@string/pref_dialog_title_dir"
+        android:key="user_dir"
+        android:title="@string/pref_title_dir" />
+</PreferenceScreen>

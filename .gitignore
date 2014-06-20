@@ -1,0 +1,35 @@
+# ignore all bin directories
+# matches "bin" in any subfolder
+bin/
+
+# ignore libs directories
+libs/
+library/
+libraries/
+
+# ignore all files ending with ~
+*~ 
+
+# ignore .Trash dirs
+.Trash*/
+
+# ignore Drawables
+*.png
+
+# ignore Eclipse .project files
+# .project
+
+# ignore Eclipse .settings files
+.settings
+
+# ignore Eclipse .clsspath files
+.classpath
+
+# ignore PDF files
+*.pdf
+
+*.ics
+
+*.aux
+
+*.log

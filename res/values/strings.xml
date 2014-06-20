@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="about">About this App</string>
+    <string name="about_close_button">Close</string>
+    <string name="action_about">About this App</string>
+    <string name="app_name" translatable="false">KoboFlo</string>
+    <string name="action_settings">Settings</string>
+    <string name="welcome_string">Ready for action.</string>
+    <string name="message_no_hotspot">HotSpot is not running! Cannot connect.</string>
+    <string name="home_dir">KoboFloICG</string>
+    <string name="message_hotspot">"Hotspot turned "</string>
+    <string name="message_on">on.</string>
+    <string name="message_off">off.</string>
+    <string name="message_wifi_on">WiFi turned on.</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="authors_note">        Contact: pulce@gmx.at \n
+        Copyright 2014 \n
+        by Florian Hauser</string>
+    <string name="legal_notice">
+    Dependencies:\n
+    ftp4j - http://www.sauronsoftware.it/projects/ftp4j/ \n
+    \n
+    License: \n  
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version. \n
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details. \n
+    
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see http://www.gnu.org/licenses/.</string>
+    <string name="message_connected">Connected to Kobo FTP Server</string>
+    <string name="message_not_copied">" not copied - already exists."</string>
+    <string name="message_copied">" copied successfully."</string>
+    <string name="message_syncing_completed">Syncing completed successfully.</string>
+    <string name="message_wifi_turned_off">WiFi turned off.</string>
+    <string name="pref_dialog_title_dir">Dir for ICG relative to /sdcard/</string>
+    <string name="pref_title_dir">Select directory for ICG files</string>
+    <string name="pref_dialog_title_ip">Kobo IP</string>
+    <string name="pref_title_ip">Select Kobo IP address</string>
+
+</resources>
